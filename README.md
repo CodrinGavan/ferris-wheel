@@ -1,3 +1,7 @@
 # ferris-wheel
  Ferris Wheel
-<img src="https://raw.githubusercontent.com/CodrinGavan/ferris-wheel/master/Ferris-Wheel.png"/>
+ <ul>
+ <li>
+ <a href="https://codringavan.github.io/ferris-wheel/">Live Preview</a>
+ </li>
+ </ul>
